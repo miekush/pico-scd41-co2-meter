@@ -1,5 +1,4 @@
-# pico-scd41-co2-meter
-Raspberry Pi Pico and Sensirion SCD41 CO2 Meter
+# Raspberry Pi Pico CO2 Meter
 
 ![Assembled Unit](https://github.com/miekush/pico-scd41-co2-meter/blob/main/pico_co2_monitor.JPG)
 
